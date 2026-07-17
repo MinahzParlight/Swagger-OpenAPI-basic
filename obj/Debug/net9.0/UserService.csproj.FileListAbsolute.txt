@@ -155,3 +155,5 @@ D:\code\VisualStudioCode\Microservices\MSTest1\UserService\obj\Debug\net9.0\User
 D:\code\VisualStudioCode\Microservices\MSTest1\UserService\obj\Debug\net9.0\UserService.pdb
 D:\code\VisualStudioCode\Microservices\MSTest1\UserService\obj\Debug\net9.0\UserService.genruntimeconfig.cache
 D:\code\VisualStudioCode\Microservices\MSTest1\UserService\obj\Debug\net9.0\ref\UserService.dll
+D:\code\VisualStudioCode\Microservices\MSTest1\UserService\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\code\VisualStudioCode\Microservices\MSTest1\UserService\obj\Debug\net9.0\UserService.sourcelink.json
